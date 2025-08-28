@@ -5,7 +5,7 @@ This project is a Python-based system designed to prevent duplicate file downloa
 
 
 
-🔹 Features
+Features
 
 ✅ Tracks all downloaded files using an SQLite database
 
@@ -19,7 +19,7 @@ This project is a Python-based system designed to prevent duplicate file downloa
 
 
 
-🔹 Tech Stack
+Tech Stack
 
 Python 3
 
@@ -30,5 +30,5 @@ Tkinter for GUI alerts
 
 
 
-🔹 Use Case
+Use Case
 This system is useful in scenarios where maintaining unique file downloads is critical—such as in data storage systems, digital libraries, or content delivery applications—to avoid unnecessary duplication and save storage space.
